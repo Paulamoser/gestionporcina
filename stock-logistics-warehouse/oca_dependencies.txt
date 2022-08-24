@@ -1,0 +1,8 @@
+account-analytic
+connector
+product-attribute
+sale-workflow
+server-env
+server-ux
+web
+wms
